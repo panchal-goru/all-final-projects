@@ -10,7 +10,7 @@
 - ![Logo](https://thumbs2.imgbox.com/9a/62/Wr5spcsg_t.jpg)
 # Project No.3 - (Daunka)
  - Deployed Link:- [Enjoy the Experience](https://tailwind-with-figma-daunka.netlify.app/)
-- ![Logo](https://thumbs2.imgbox.com/b1/e7/o9ybVYcY_t.jpg)
+- ![Logo](https://thumbs2.imgbox.com/ec/a2/UcOHjXne_t.jpg)
 # Project No.4 - (Ashapurna)
  - Deployed Link:- [Enjoy the Experience](https://bootstrap-design-ashapurna.netlify.app/)
 - ![Logo](https://thumbs2.imgbox.com/66/af/zFAucJuM_t.jpg)
